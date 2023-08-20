@@ -1,4 +1,9 @@
-### Hi there 👋
+# Halo semua!  👋
+
+Perkenalkan nama saya **Naufal Iffa**
+
+Saya seorang **Mahasiswa**
+
 
 <!--
 **Naufaliffa/NaufalIffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
