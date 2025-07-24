@@ -36,6 +36,9 @@ Here are some of the technologies and tools I work with:
 | **Data Visualization** | `Tableau`, `Power BI`, `Looker Studio` |
 | **Tools & Platforms** | `Jupyter Notebook`, `Google Colab`, `Git & GitHub`, `MySQL` |
 
+**Certifications:**
+- Google Analytics Certified
+- Tensorflow 
 
 ### 📫 Let's Connect!
 
