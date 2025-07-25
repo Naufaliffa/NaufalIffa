@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there, I'm Naufal Iffa Maulana Ramadhan 👋
 </h1>
-<h3 align="center">Aspiring Data Enthusiast | Transforming Data into Actionable Insights 📈</h3>
+<h3 align="center">Aspiring Data Analyst | Transforming Data into Actionable Insights 📈</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naufal-iffa-maulana-ramadhan-19982b245/" target="_blank">
